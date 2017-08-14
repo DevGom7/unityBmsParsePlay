@@ -1,0 +1,44 @@
+
+*---------------------- HEADER FIELD
+
+#PLAYER 1
+#GENRE 
+#TITLE for_your_dream
+#ARTIST SHK
+#BPM 140
+#PLAYLEVEL 1
+#RANK 3
+#STAGEFILE 
+
+#WAV01  Basic / Long
+#WAV02  Flip กๆ
+#WAV04  Flip ก้
+#WAV06  Flip ก็
+#WAV08  Flip ก่
+#WAV0A bgm.wav
+#WAV10  Slide 1 Head
+#WAV11  Slide 1 Center
+#WAV12  Slide 1 Close
+#WAV13  Slide 2 Head
+#WAV14  Slide 2 Center
+#WAV15  Slide 2 Close
+
+
+
+
+
+
+
+
+*---------------------- MAIN DATA FIELD
+
+#00001:0A
+
+
+#00251:0101
+#00253:00000101
+#00255:00000001
+
+#00315:00000001
+#00355:00010000
+
